@@ -1,4 +1,4 @@
-PART II:
+
 Data Visualization on Honey Production dataset using seaborn
 and matplotlib libraries.
 Domain: Food and agriculture
